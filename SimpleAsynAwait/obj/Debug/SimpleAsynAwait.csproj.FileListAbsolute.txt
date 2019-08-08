@@ -1,0 +1,7 @@
+C:\Users\imranm\source\repos\SimpleAsynAwait\SimpleAsynAwait\bin\Debug\SimpleAsynAwait.exe.config
+C:\Users\imranm\source\repos\SimpleAsynAwait\SimpleAsynAwait\bin\Debug\SimpleAsynAwait.exe
+C:\Users\imranm\source\repos\SimpleAsynAwait\SimpleAsynAwait\bin\Debug\SimpleAsynAwait.pdb
+C:\Users\imranm\source\repos\SimpleAsynAwait\SimpleAsynAwait\obj\Debug\SimpleAsynAwait.csprojAssemblyReference.cache
+C:\Users\imranm\source\repos\SimpleAsynAwait\SimpleAsynAwait\obj\Debug\SimpleAsynAwait.csproj.CoreCompileInputs.cache
+C:\Users\imranm\source\repos\SimpleAsynAwait\SimpleAsynAwait\obj\Debug\SimpleAsynAwait.exe
+C:\Users\imranm\source\repos\SimpleAsynAwait\SimpleAsynAwait\obj\Debug\SimpleAsynAwait.pdb
